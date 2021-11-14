@@ -1,0 +1,51 @@
+﻿  Camera.cpp
+  CollisionDetection.cpp
+  CreateSkyBox.cpp
+  Map.cpp
+  Mesh.cpp
+  Model.cpp
+  Element.cpp
+  Particle.cpp
+f:\desk\opencity\vsbuild\vsbuild\particle.cpp(6): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\desk\opencity\vsbuild\vsbuild\particle.cpp(7): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\desk\opencity\vsbuild\vsbuild\particle.cpp(8): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\desk\opencity\vsbuild\vsbuild\particle.cpp(9): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\desk\opencity\vsbuild\vsbuild\particle.cpp(10): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\desk\opencity\vsbuild\vsbuild\particle.cpp(11): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\desk\opencity\vsbuild\vsbuild\particle.cpp(12): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\desk\opencity\vsbuild\vsbuild\particle.cpp(13): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\desk\opencity\vsbuild\vsbuild\particle.cpp(14): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\desk\opencity\vsbuild\vsbuild\particle.cpp(15): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\desk\opencity\vsbuild\vsbuild\particle.cpp(16): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\desk\opencity\vsbuild\vsbuild\particle.cpp(17): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\desk\opencity\vsbuild\vsbuild\particle.cpp(18): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\desk\opencity\vsbuild\vsbuild\particle.cpp(69): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\desk\opencity\vsbuild\vsbuild\particle.cpp(70): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\desk\opencity\vsbuild\vsbuild\particle.cpp(71): warning C4305: “参数”: 从“double”到“GLfloat”截断
+  Process.cpp
+f:\desk\opencity\vsbuild\vsbuild\process.cpp(12): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\desk\opencity\vsbuild\vsbuild\process.cpp(13): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\desk\opencity\vsbuild\vsbuild\process.cpp(18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\desk\opencity\vsbuild\vsbuild\process.cpp(19): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\desk\opencity\vsbuild\vsbuild\process.cpp(20): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\desk\opencity\vsbuild\vsbuild\process.cpp(30): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\desk\opencity\vsbuild\vsbuild\process.cpp(36): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\desk\opencity\vsbuild\vsbuild\process.cpp(42): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+  Rand.cpp
+f:\desk\opencity\vsbuild\vsbuild\rand.cpp(5): warning C4244: “return”: 从“double”转换到“GLfloat”，可能丢失数据
+  Render.cpp
+  Shader.cpp
+f:\desk\opencity\vsbuild\vsbuild\shader.cpp(40): warning C4101: “e”: 未引用的局部变量
+  OpenCity.cpp
+f:\desk\opencity\vsbuild\vsbuild\opencity.cpp(284): warning C4805: “==”: 在操作中将类型“GLboolean”与类型“bool”混合不安全
+f:\desk\opencity\vsbuild\vsbuild\opencity.cpp(365): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\desk\opencity\vsbuild\vsbuild\opencity.cpp(366): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\desk\opencity\vsbuild\vsbuild\opencity.cpp(399): warning C4805: “==”: 在操作中将类型“GLboolean”与类型“bool”混合不安全
+f:\desk\opencity\vsbuild\vsbuild\opencity.cpp(426): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\desk\opencity\vsbuild\vsbuild\opencity.cpp(427): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\desk\opencity\vsbuild\vsbuild\opencity.cpp(496): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\desk\opencity\vsbuild\vsbuild\opencity.cpp(497): warning C4305: “参数”: 从“double”到“GLfloat”截断
+  正在生成代码...
+glad.lib(glad.obj) : warning LNK4099: 未找到 PDB“glad.pdb”(使用“glad.lib(glad.obj)”或在“F:\Desk\OpenCity\vsbuild\Debug\glad.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+stb_image.lib(stb_image.obj) : warning LNK4099: 未找到 PDB“stb_image.pdb”(使用“stb_image.lib(stb_image.obj)”或在“F:\Desk\OpenCity\vsbuild\Debug\stb_image.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  vsbuild.vcxproj -> F:\Desk\OpenCity\vsbuild\Debug\vsbuild.exe
