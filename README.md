@@ -177,4 +177,4 @@ https://youtu.be/HusvGeEDU_U
 
 https://blog.csdn.net/dcba2014/article/details/52290521
 
-[https://learnopengl-cn.github.io/06%20In%20Practice/2D-Game/06%20Particles/](https://learnopengl-cn.github.io/06_In_Practice/2D-Game/06_Particles/)
+[https://learnopengl-cn.github.io/06%20In%20Practice/2D-Game/06%20Particles/](https://learnopengl-cn.github.io/06%20In%20Practice/2D-Game/06%20Particles/)
