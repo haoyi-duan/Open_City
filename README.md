@@ -9,10 +9,6 @@
 
 
 ###### A short demo video:
-<video src=https://youtu.be/WN0MFUD1t1Y></video>
-
-
-Uploading general introduction.mp4…
 
 
 ## Project Content
