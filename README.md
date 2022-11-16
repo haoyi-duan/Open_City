@@ -11,7 +11,7 @@
 ###### A short demo video:
 <!-- 
 <video src="../../MyCollege/大三上/计算机图形学/Project/opencity_video/general introduction.mp4"></video> -->
-https://user-images.githubusercontent.com/48283858/131208418-5317f2ee-90e6-4773-995f-fb26c83ce2f7.mp4
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 ## Project Content
 
