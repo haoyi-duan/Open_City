@@ -10,7 +10,7 @@
 
 ###### A short demo video:
 <!-- 
-<video src="../../MyCollege/大三上/计算机图形学/Project/opencity_video/general introduction.mp4"></video> -->
+<video src="images/general introduction.mp4"></video> -->
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 ## Project Content
