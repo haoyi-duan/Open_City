@@ -9,9 +9,7 @@
 
 
 ###### A short demo video:
-<!-- 
-<video src="images/general introduction.mp4"></video> -->
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+<video src=https://youtu.be/WN0MFUD1t1Y></video>
 
 ## Project Content
 
