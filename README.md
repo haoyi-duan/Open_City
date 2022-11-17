@@ -8,7 +8,7 @@
 
 ###### A short demo video:
 
-<video src="images\sky%20box.mp4"></video>
+<video src="images\sky box.mp4"></video>
 
 ## Project Content
 
