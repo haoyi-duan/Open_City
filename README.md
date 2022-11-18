@@ -8,7 +8,11 @@
 
 ###### A short demo video:
 
-<video src="images\sky box.mp4"></video>
+
+
+https://user-images.githubusercontent.com/58615742/202679030-2e984b8b-221c-4f77-90b1-15d4ea58c340.mp4
+
+
 
 ## Project Content
 
@@ -28,6 +32,10 @@
 9. gamma correction
 10. hdr correction
 11. Sky Box with Rotation
+
+
+https://user-images.githubusercontent.com/58615742/202677355-26596674-952c-41fc-9fb2-0a83c867816d.mp4
+
 
 ### Additional Realization of this Project
 
@@ -103,13 +111,19 @@ Enter `ENTER` on the interface to enter the game.
 
 ![Snipaste_2021-12-31_14-44-35](images/Snipaste_2021-12-31_14-44-35.jpg)
 
-<video src="../../MyCollege/大三上/计算机图形学/Project/opencity_video/spot light.mp4"></video>
+
+https://user-images.githubusercontent.com/58615742/202676484-60a5e3c7-0e54-4b21-9abe-09ae3c1e4743.mp4
+
+
 
 ###### Real-Time Shadows
 
 ![Snipaste_2021-12-31_14-45-55](images/Snipaste_2021-12-31_14-45-55.jpg)
 
-<video src="../../MyCollege/大三上/计算机图形学/Project/opencity_video/real time shadows.mp4"></video>
+
+https://user-images.githubusercontent.com/58615742/202676525-b00dac84-f1c6-45d9-bdc8-a226b543e42c.mp4
+
+
 
 ###### Particle Systems
 
@@ -127,17 +141,29 @@ Enter `ENTER` on the interface to enter the game.
 
 - ###### Video Demonstration
 
-  <video src="../../MyCollege/大三上/计算机图形学/Project/opencity_video/fog.mp4"></video>
+
+
+
+https://user-images.githubusercontent.com/58615742/202676660-b06d6f0b-418b-49db-91e7-e1ee40997771.mp4
+
 
 ###### Water Wave
 
 - ###### Shadows of Objects Nearby
 
-<video src="../../MyCollege/大三上/计算机图形学/Project/opencity_video/water1.mp4"></video>
+
+
+https://user-images.githubusercontent.com/58615742/202676723-d05fb178-963d-4f46-bbf0-b8ec4bdc417f.mp4
+
+
 
 - ###### Reflective Effect Changes with Angle Changes 
 
-<video src="../../MyCollege/大三上/计算机图形学/Project/opencity_video/water2.mp4"></video>
+
+
+https://user-images.githubusercontent.com/58615742/202676751-4a55ad10-abbb-4e29-8d58-c5fc1fd3f887.mp4
+
+
 
 ###### Construction Mode
 
